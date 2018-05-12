@@ -1,0 +1,28 @@
+_repo: Beginselen-der-dierkunde_31310
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31310-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bos, J. Ritzema (Jan Ritzema)
+    alias: Bos, Jan Ritzema
+    birthdate: 1850
+    gutenberg_agent_id: '35143'
+    url: http://www.gutenberg.org/2009/agents/35143
+description: ''
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31310'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology, Economic'
+- !lcc 'QL'
+- !lcsh 'Animals'
+- !lcsh 'Anatomy'
+title: Beginselen der dierkunde
+url: http://www.gutenberg.org/ebooks/31310
